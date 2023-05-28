@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GameAndresito.unity
     guid: be421a04cfb8ca44d85cbc6bbed9c4c3
+  - enabled: 1
+    path: Assets/Scenes/GameRolo.unity
+    guid: f8ee29f1185dc7344a7606dc40aec3f8
   m_configObjects: {}
